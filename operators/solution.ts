@@ -67,3 +67,4 @@ function filterPhonesByDate(
 // а значит мы получим подсказки - свойства этого объекта
 
 console.log(filterPhonesByDate(phones, "manufactured", "2022-01-01"));
+
